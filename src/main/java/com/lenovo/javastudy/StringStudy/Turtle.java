@@ -1,4 +1,4 @@
-package StringStudy;
+package com.lenovo.javastudy.StringStudy;
 
 import java.io.PrintStream;
 import java.util.Formatter;

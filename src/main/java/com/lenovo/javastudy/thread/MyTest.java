@@ -7,7 +7,7 @@ public class MyTest {
 
     public static void main(String[] args) {
 
-        MyController controller = new MyController();
+        final MyController controller = new MyController();
 
         // 模拟不同动作操作同一个订单
         Callable<String> callable = new Callable<String>() {

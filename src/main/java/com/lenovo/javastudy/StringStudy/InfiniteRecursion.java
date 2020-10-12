@@ -1,4 +1,4 @@
-package StringStudy;
+package com.lenovo.javastudy.StringStudy;
 
 import java.util.ArrayList;
 import java.util.List;
