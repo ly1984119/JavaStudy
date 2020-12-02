@@ -36,6 +36,7 @@ public class Test {
 
         try {
             Thread.sleep(1000);
+            // 增加了isDone就变成有序操作了
             if (task1.isDone()) {
                 System.out.println(task1.get());
             }
